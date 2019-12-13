@@ -9,7 +9,7 @@ Specific questions are:
   2. Which Airbnb listing attributes/features have the biggest impact on price?
   3. Using the above, can the price be accuracly predicted for an Airbnb using only latent data?
   
-Cleaning and general functions are stored in the Airbnb_pkg
+Cleaning and general functions are stored in the Airbnb_pkg, which has a local setup.py in place.
 
 # Results
   1. Does the price vary based on season?
