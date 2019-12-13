@@ -1,7 +1,7 @@
 # Airbnb-Market-Analysis
 The aim of this project is to predict Airbnb price listing based on season, location and property features.
 
-In this repository the CRSIP-DM data framework is used to analyze data for the Vancouver, BC, Canada Airbnb market. Analysis is split into initial exploration, data processing, and modelling/evaluation. The business driver to this project is to ensure market-driven pricing of individual owners so as to not loose potential revenue from undervaluation or booking losses from overvaluation.
+In this repository the CRISP-DM data framework is used to analyze data for the Vancouver, BC, Canada Airbnb market. Analysis is split into initial exploration, data processing, and modelling/evaluation. The business driver to this project is to ensure market-driven pricing of individual owners so as to not loose potential revenue from undervaluation or booking losses from overvaluation.
 
 Specific questions are:
 
